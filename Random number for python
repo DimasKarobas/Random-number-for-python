@@ -4,8 +4,4 @@ a = input("Random number")
 b = input("Random number")
 
 r = randint(a,b)
-
-if a > b:
-  print("Error")
- else:
-  print(r)
+print(r)
